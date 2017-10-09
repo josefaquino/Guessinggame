@@ -1,2 +1,1 @@
-# Guessinggame
-Unix Workbenck task.
+# guessinggame.sh
